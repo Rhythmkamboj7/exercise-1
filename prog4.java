@@ -1,4 +1,4 @@
-class first
+class prog4
 {
 	public static void main(String args[])
 	{
